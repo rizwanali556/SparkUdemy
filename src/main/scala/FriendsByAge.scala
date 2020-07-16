@@ -3,7 +3,7 @@ import org.apache.spark.SparkContext
 import org.apache.spark.SparkConf
 
 /**
-  * Created by Rizwan on 7/16/2020.
+  * Created by Rizwan on the 7/16/2020.
   */
 object FriendsByAge {
   def parseLine(line: String) = {
