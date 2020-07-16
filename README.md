@@ -1,1 +1,1 @@
-# SparkUdemy project maven 1
+# SparkUdemy project maven 2
