@@ -1,6 +1,7 @@
+package com.spark
+
 import org.apache.log4j._
-import org.apache.spark.SparkContext
-import org.apache.spark.SparkConf
+import org.apache.spark.{SparkConf, SparkContext}
 
 /**
   * Created by Rizwan on the 7/16/2020.
